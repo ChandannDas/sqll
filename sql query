@@ -1,0 +1,19 @@
+-- Online SQL Editor to Run SQL Online.
+-- Use the editor to create new tables, insert data and all other SQL operations.
+--  ;
+--create table chandan (username varchar, password varchar,salary int(5));
+--insert into chandan values ('teja','chandan1234','30000')
+--alter table chandan add des varchar;
+--update chandan set salary='40000' where username='teja';
+--update chandan set des='dev'where username='swpna';
+--select *from chandan where username
+--SELECT * FROM chandan WHERE 0=1
+--select password,des from chandan
+--select *from chandan where salary >30000
+--select * from chandan where password like 's%'
+--select * from chandan where username in('chandan','teja')
+--select * from chandan where salary between 20000 and 30000
+---select * from chandan order by salary asc
+ --select distinct salary from chandan
+--ALTER TABLE chandan DROP COLUMN email;
+--alter table chandan rename column login to password ;
